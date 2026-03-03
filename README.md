@@ -1,211 +1,222 @@
 # 📊 Data Technician Bootcamp Portfolio  
-### By Umar
+### Umar | Technical Skills & Workbook Showcase
 
-Welcome to my professional portfolio repository showcasing my completed coursework, practical exercises, and technical development throughout my Data Technician Bootcamp.
+Welcome to my professional Data Technician Bootcamp portfolio.
 
-This repository demonstrates my applied knowledge in data handling, analysis, documentation, and reporting across multiple structured weekly workbooks.
+This repository documents my structured technical training through weekly workbooks, supported by practical exercises and visual evidence. Each section outlines:
 
----
+- The focus of the week  
+- Skills developed  
+- Tools and software used  
+- Supporting screenshots  
 
-## 📌 About This Portfolio
-
-This portfolio represents my structured learning journey through a Data Technician Bootcamp programme. It includes:
-
-- 📄 Completed weekly workbook assignments  
-- 🖼️ Visual evidence of practical tasks  
-- 📊 Data exercises and structured documentation  
-- 🧠 Demonstrated analytical thinking and problem solving  
-- 🗂️ Organised and professional file management  
-
-The work presented reflects real-world data technician responsibilities including data preparation, validation, analysis, reporting, and documentation.
+This portfolio demonstrates progressive development in data handling, validation, analysis, and reporting.
 
 ---
 
-# 🖼️ Practical Workbook Evidence
 
-Below are selected screenshots demonstrating completed exercises, structured tasks, and applied data work.
+
+## 📄 Full Data Technician Workbook  
+🔗 [View Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook.docx)
+
+The master workbook established core data knowledge, documentation standards, and foundational analytical skills.
+
+### 🛠 Tools & Software Used
+- **Microsoft Excel** – Data structuring, formatting, and basic calculations  
+- **Microsoft Word** – Structured documentation and written responses  
+- **GitHub** – Version control and portfolio documentation  
+
+### 🧠 Skills Demonstrated
+- Understanding structured vs unstructured data  
+- Data lifecycle awareness  
+- Clear technical writing  
+- Logical explanation of concepts  
+
+### 🖼 Supporting Evidence
+
+![Workbook 1 Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%201%20ss.png)
+
+Demonstrates foundational knowledge and structured written responses.
 
 ---
 
-## 📍 Workbook Exercise – Data Handling & Structure
+![Workbook Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%20ss.png)
 
-![Workbook Session 2](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%202%20sss.png)
+Shows professional formatting and organised documentation practices.
 
-This session focused on:
+---
 
-- Understanding structured datasets  
+# 📅 Week 2 – Data Foundations & Structured Datasets
+
+## 📄 Week 2 Workbook  
+🔗 [View Week 2](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_2.docx)
+
+Week 2 focused on understanding how structured data is organised and manipulated.
+
+### 🛠 Tools & Software Used
+- **Microsoft Excel**
+  - Data tables  
+  - Basic formulas (SUM, AVERAGE, COUNT)  
+  - Data sorting and filtering  
+- **SQL (Structured Query Language)**
+  - Basic SELECT statements  
+  - Filtering with WHERE clauses  
+- **Microsoft Word** – Documentation of findings  
+
+### 🧠 Skills Developed
 - Identifying data types  
-- Formatting and organising information  
-- Applying logical thinking to data tasks  
-- Following professional documentation standards  
+- Working with structured datasets  
+- Applying simple SQL queries  
+- Organising and interpreting tabular data  
 
-The work demonstrates attention to detail and structured problem solving.
+### 🖼 Supporting Evidence
+
+![Workbook 2 Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook2%20ss.png)
+
+Demonstrates structured data handling and logical breakdown of tasks.
 
 ---
 
-## 📍 Workbook Exercise – Data Processing & Validation
+![Workbook Screenshot 2](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%20ss%202.png)
 
-![Workbook Session 6](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%206%20ss.png)
+Shows applied data reasoning and interpretation of structured information.
 
-In this stage of the bootcamp, I applied:
+---
 
-- Data validation techniques  
-- Accuracy checking  
-- Identifying inconsistencies  
+![Workbook 2 Additional Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%202%20sss.png)
+
+Illustrates confident application of foundational data techniques.
+
+---
+
+# 📅 Week 3 – Data Quality, Validation & Integrity
+
+## 📄 Week 3 Workbook  
+🔗 [View Week 3](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_3%20.docx)
+
+Week 3 concentrated on maintaining data integrity and ensuring quality within datasets.
+
+### 🛠 Tools & Software Used
+- **Microsoft Excel**
+  - Data validation rules  
+  - Conditional formatting  
+  - Duplicate identification  
+- **SQL**
+  - Filtering inconsistent records  
+  - Identifying null or incorrect values  
+- **Microsoft Word** – Reporting validation findings  
+
+### 🧠 Skills Developed
+- Detecting inaccuracies  
+- Applying validation techniques  
+- Understanding data governance principles  
 - Improving dataset reliability  
-- Maintaining documentation integrity  
 
-This reflects the importance of precision in a data technician role.
+### 🖼 Supporting Evidence
 
----
+![Workbook 3 Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%203%20ss.png)
 
-## 📍 Workbook Exercise – Reporting & Interpretation
-
-![Workbook Session Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%20ss%202.png)
-
-This section demonstrates:
-
-- Interpreting structured data  
-- Drawing conclusions from information  
-- Presenting findings clearly  
-- Supporting answers with logical reasoning  
-
-Strong reporting skills are essential for communicating insights effectively.
+Demonstrates analytical evaluation of data quality and structured correction processes.
 
 ---
 
-## 📍 Workbook Exercise – Professional Documentation
+# 📅 Week 5 – Data Processing, Analysis & Reporting
 
-![Workbook Documentation Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%20ss.png)
+## 📄 Week 5 Workbook  
+🔗 [View Week 5](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_5%20.docx)
 
-This work highlights:
+Week 5 introduced more advanced practical application and reporting techniques.
 
-- Clear written communication  
-- Structured responses  
-- Professional formatting  
-- Logical organisation of answers  
+### 🛠 Tools & Software Used
+- **Microsoft Excel**
+  - Pivot tables  
+  - Intermediate formulas  
+  - Data summarisation  
+- **SQL**
+  - Aggregation functions (COUNT, SUM, GROUP BY)  
+  - Extracting meaningful subsets of data  
+- **Tableau**
+  - Basic dashboard creation  
+  - Visualising structured datasets  
+- **Microsoft Word** – Formal reporting  
 
-Documentation accuracy is critical in maintaining reliable data processes.
+### 🧠 Skills Developed
+- Data transformation  
+- Creating structured summaries  
+- Interpreting outputs  
+- Communicating findings clearly  
 
----
+### 🖼 Supporting Evidence
 
-# 📚 Complete Workbook Submissions
+![Workbook 5 Screenshot 1](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%205%20ss%201.png)
 
-All weekly workbooks are available below for full review.
-
-## 📘 Full Bootcamp Workbook
-- [Data Technician Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook.docx)
-
----
-
-## 📅 Week 2 – Foundations of Data
-
-- [Week 2 Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_2.docx)
-
-Key Focus Areas:
-- Data fundamentals  
-- Understanding structured information  
-- Basic data manipulation  
-- Documentation standards  
+Shows practical application of data analysis and structured task completion.
 
 ---
 
-## 📅 Week 3 – Data Handling & Quality
+![Workbook 5 Screenshot 2](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%205%20ss.png)
 
-- [Week 3 Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_3%20(1).docx)
-
-Key Focus Areas:
-- Data accuracy  
-- Quality assurance processes  
-- Identifying errors and inconsistencies  
-- Applying logical checks  
+Demonstrates organised reporting and confident technical execution.
 
 ---
 
-## 📅 Week 5 – Data Processing & Reporting
+# 📅 Week 6 – Advanced Application & Independent Execution
 
-- [Week 5 Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_5%20(1).docx)
+## 📄 Week 6 Workbook  
+🔗 [View Week 6](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_6.docx)
 
-Key Focus Areas:
-- Structured data workflows  
-- Processing techniques  
-- Data interpretation  
-- Producing clear findings  
+Week 6 consolidated all prior learning into end-to-end task execution.
 
----
+### 🛠 Tools & Software Used
+- **Microsoft Excel**
+  - Data cleaning  
+  - Structured modelling  
+- **SQL**
+  - Multi-condition queries  
+  - Data extraction for reporting  
+- **Tableau**
+  - Refining visual outputs  
+  - Dashboard interpretation  
+- **GitHub**
+  - Portfolio management  
+  - Documentation version control  
 
-## 📅 Week 6 – Advanced Application & Review
-
-- [Week 6 Workbook](https://github.com/Umar0456/bootcamp-workbook/blob/main/Data_Technician_Workbook_Week_6.docx)
-
-Key Focus Areas:
-- Applying cumulative knowledge  
-- End-to-end task execution  
+### 🧠 Skills Demonstrated
 - Independent problem solving  
-- Professional documentation  
+- End-to-end data workflow execution  
+- Professional reporting standards  
+- Analytical reasoning  
+
+### 🖼 Supporting Evidence
+
+![Workbook 6 Screenshot](https://github.com/Umar0456/bootcamp-workbook/blob/main/workbook%206%20ss.png)
+
+Represents cumulative confidence and technical maturity across the programme.
 
 ---
 
-# 🛠️ Technical & Professional Skills Demonstrated
+# 🛠 Technical Stack Summary
 
-Throughout this bootcamp, I developed and applied:
+Throughout this bootcamp, I developed practical experience with:
 
-### 📊 Data Skills
-- Data collection and organisation  
-- Data cleaning and validation  
-- Quality assurance checks  
-- Logical analysis  
-- Structured reporting  
-
-### 🗂️ Technical Tools
-- Spreadsheet software (data formatting, formulas, structured tables)  
-- Document processing tools  
-- File management and version control using :contentReference[oaicite:1]{index=1}  
-- Digital documentation best practices  
-
-### 🧠 Professional Competencies
-- Analytical thinking  
-- Attention to detail  
-- Accuracy and precision  
-- Written communication  
-- Organised workflow management  
-- Problem solving  
+- **Microsoft Excel** – Data cleaning, formulas, pivot tables, validation  
+- **SQL** – Querying, filtering, aggregation, data extraction  
+- **Tableau** – Basic dashboards and visual data interpretation  
+- **Microsoft Word** – Professional reporting  
+- **GitHub** – Repository management and portfolio documentation  
 
 ---
 
-# 🎯 What This Portfolio Demonstrates
+# 🎯 Professional Readiness
 
-This repository reflects:
+This portfolio demonstrates:
 
-- My ability to complete structured technical training  
-- Consistent quality across multiple weeks of coursework  
-- Growth in analytical and technical skills  
-- Professional presentation of work  
-- Readiness for entry-level Data Technician responsibilities  
+- Structured learning progression  
+- Hands-on data processing experience  
+- Strong data quality awareness  
+- Clear technical communication  
+- Practical familiarity with industry tools  
 
----
-
-# 🚀 Career Objective
-
-I am developing my career in data and technology, building strong foundations in:
-
-- Data handling  
-- Data quality management  
-- Reporting and documentation  
-- Structured technical workflows  
-
-I am committed to continuous learning and applying best practices in professional data environments.
+I am continuing to build on these foundations and apply structured analytical thinking within professional data environments.
 
 ---
-
-# 📬 Contact
-
-Thank you for reviewing my Data Technician Bootcamp Portfolio.
-
-I welcome opportunities to contribute to data-driven teams and continue developing my technical expertise.
-
----
-
-**Repository Owner:** Umar  
-**Programme:** Data Technician Bootcamp  
-**Purpose:** Professional skills portfolio  
